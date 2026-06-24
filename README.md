@@ -2,196 +2,143 @@
 
 # 👋 Hey, I'm Dheeraj A U
 
-### Building AI Systems That Actually Solve Problems
+### Java Backend Developer • AI Builder • AIML Student
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineering+Student;Java+Backend+Developer;Building+Agentic+AI+Systems;FastAPI+%7C+Spring+Boot+%7C+LLMs;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems;Spring+Boot+%7C+FastAPI+%7C+LLMs;Hackathon+Winner;Best+Performing+Intern;Always+Learning+Something+New" />
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=audhee&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## ⚡ Developer Snapshot
 
-```java
-public class Dheeraj {
+<table>
+<tr>
+<td width="50%">
 
-    String education = "B.E AIML";
-    String college = "DSATM Bangalore";
+🎓 AIML Student @ DSATM
 
-    String[] interests = {
-        "Agentic AI",
-        "Backend Engineering",
-        "Java",
-        "System Design",
-        "AI Voice Agents"
-    };
+☕ Java & Spring Boot Enthusiast
 
-    String currentFocus =
-        "Building real-time AI applications";
+🤖 Building Agentic AI Systems
 
-    String lifeGoal =
-        "Become an engineer capable of solving meaningful problems";
-}
-```
+🎙️ Developing Real-Time Voice Agents
 
----
+📚 Consistently Improving DSA & Problem Solving
 
-## 🚀 Current Mission
+</td>
 
-I'm currently focused on building:
+<td width="50%">
 
-🎙️ Real-Time Emergency Voice Agents
+🏆 Bug Hunt Hackathon Winner
 
-🧠 Agentic AI Systems
-
-☕ Java + Spring Boot Applications
-
-⚡ FastAPI Backends
-
-📚 Strong Data Structures & Algorithms Foundations
-
----
-
-## 🏆 Highlights
-
-🥇 1st Place — BUG HUNT Hackathon
-
-🌟 Best Performing Intern Award
+🌟 Best Performing Intern
 
 📄 Published Research Paper on AI Governance
 
 🚀 Smart India Hackathon Participant
 
-💼 Intern @ Hasparna HealthCare Technologies
+🇯🇵 Learning Japanese
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔨 Featured Projects
+## 🚀 Current Projects
 
-### 🎙️ Emergency Voice Agent
+🎙️ **Emergency Voice Agent**
+Real-time AI assistant using FastAPI, Claude API, ChromaDB and RAG.
 
-An AI-powered emergency assistant capable of:
+🍽️ **Orderly**
+Food Ordering System built with Spring Boot, Thymeleaf and MySQL.
 
-- Speech Recognition
-- Intent Detection
-- RAG-based Knowledge Retrieval
-- Real-time Responses
-
-**Stack**
-
-`FastAPI`
-`Claude API`
-`ChromaDB`
-`RAG`
-`Web Speech API`
+🎓 **Student Management System**
+Java + JavaFX desktop application for managing academic records.
 
 ---
 
-### 🍽️ Orderly
+## 🛠️ Tech Stack
 
-Food Ordering Application
+<div align="center">
 
-Features:
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,spring,react,mysql,html,css,git,github,vscode" />
 
-- User Authentication
-- Menu Management
-- Order Tracking
-- MySQL Integration
+</div>
 
-**Stack**
+<br>
 
-`Spring Boot`
-`MySQL`
-`Thymeleaf`
+<div align="center">
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-orange?style=for-the-badge)
+![Claude API](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge)
 
-### 🎓 Student Management System
-
-Desktop application built using:
-
-`Java`
-`JavaFX`
-`MySQL`
-
-Handles:
-
-- Student Records
-- Marks
-- Attendance
-- Reports
+</div>
 
 ---
 
-## ⚙️ Tech Arsenal
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,mysql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### AI & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-FastAPI • LangChain • ChromaDB • Claude API
-
----
-
-## 📈 GitHub Analytics
+## 🔥 Contribution Graph
 
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=audhee&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=audhee&show_icons=true&theme=tokyonight&hide_border=true"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audhee&layout=compact&theme=tokyonight&hide_border=true"/>
+## 📊 GitHub Analytics
 
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=audhee&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audhee&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=audhee&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=audhee&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 🏅 Achievements
+
+🥇 1st Place — BUG HUNT Hackathon
+
+🌟 Best Performing Intern Award
+
+📄 Research Publication — AI Governance
+
+🚀 Smart India Hackathon Team Member
 
 ---
 
 ## 🌱 Currently Learning
 
-- Spring Boot Deep Dive
-- System Design
-- Agentic AI Architecture
-- RAG Systems
-- PostgreSQL
-- Japanese 🇯🇵
+```text
+Spring Boot
+System Design
+Agentic AI Architecture
+PostgreSQL
+Japanese 🇯🇵
+```
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
 
 <a href="mailto:audheraj715@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://linkedin.com/in/dheeraj-a-u">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
@@ -200,12 +147,8 @@ FastAPI • LangChain • ChromaDB • Claude API
 
 <div align="center">
 
-### 💭 A Thought I Live By
+### 💭 Motto
 
-> "Skills compound. Small progress every day eventually becomes expertise."
-
----
-
-⭐ If you like what I'm building, feel free to connect.
+> Building useful software, one commit at a time.
 
 </div>
