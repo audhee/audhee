@@ -1,133 +1,58 @@
-<!--
-  Dheeraj A U — GitHub Profile README
-  Design: Linear/Apple-inspired · Dark-optimized · ~220 lines
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=200&section=header&text=Dheeraj%20A%20U&subtitle=Relentless%20Builder%20%7C%20GenAI%20%26%20Full-Stack&fontSize=45&fontColor=ffffff&fontAlignY=40" alt="Dheeraj A U Banner" width="100%" />
+</p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=12&section=header" width="100%"/>
-
-<br/>
-
-# Dheeraj A U
-
-**Java Backend · AI Systems · AIML @ DSATM**
-
-<sub>Building backends that scale and AI agents that think.</sub>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheeraj-a-u)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-audheraj715%40gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:audheraj715@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/audhee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/audhee)
-&nbsp;
-[![Views](https://komarev.com/ghpvc/?username=audhee&style=flat-square&color=8B5CF6&label=profile+views)](https://github.com/audhee)
-
-</div>
-
-<br/>
+<p align="center">
+  <a href="mailto:audheeraj875@gmail.com">
+    <img src="https://img.shields.io/badge/Email-audheeraj875%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/dheeraj-a-u">
+    <img src="https://img.shields.io/badge/LinkedIn-Dheeraj--A--U-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-## Projects
+### 🔥 The Vibe
+I don't just write code—I build, break, and ship relentlessly. I specialize in Generative AI, agentic systems (LangGraph), and low-latency voice pipelines.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🎙️ Emergency Voice Agent
-Real-time voice AI with contextual memory — listens, retrieves, responds.
-
-`FastAPI` &nbsp; `Claude API` &nbsp; `ChromaDB` &nbsp; `RAG`
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽️ Orderly
-Production-grade food ordering system with full order lifecycle management.
-
-`Spring Boot` &nbsp; `Thymeleaf` &nbsp; `MySQL`
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Student Management System
-JavaFX desktop app for academic record management — clean UI, zero dependencies.
-
-`Java` &nbsp; `JavaFX` &nbsp; `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔭 Currently Building
-Exploring agentic architectures, multi-step reasoning pipelines, and System Design fundamentals.
-
-`Agentic AI` &nbsp; `PostgreSQL` &nbsp; `System Design`
-
-</td>
-</tr>
-</table>
+⚡ **Focus**: Speed, accuracy, and building things that solve actual problems.
 
 ---
 
-## Highlights
+### 🛠️ Tech Stack
 
-<div align="center">
+**AI / ML & Agents**  
+![LangGraph](https://img.shields.io/badge/Lang--Graph-orange?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-blueviolet?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=ultralytics&logoColor=black) ![Watson](https://img.shields.io/badge/IBM_Watson-054ADA?style=flat-square&logo=ibm-watson&logoColor=white)
 
-| 🏆 | 🌟 | 📄 | 🚀 |
-|:---:|:---:|:---:|:---:|
-| **Bug Hunt** | **Best Performing** | **Research Paper** | **Smart India** |
-| 1st Place Hackathon | Intern Award — Retained | AI Governance · Published | National Hackathon |
-
-</div>
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
 
-## Stack
+### 🚀 What I Ship
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,javascript,react,mysql,git&theme=dark&perline=8" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LangChain-1a1a2e?style=flat-square&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/ChromaDB-FF6D00?style=flat-square&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Claude_API-8B5CF6?style=flat-square&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Claude_Code-6D28D9?style=flat-square&logoColor=white" />
-
-</div>
+* **🎙️ Emergency Voice Agent** (LangGraph • Gemini 2.5 • Sarvam AI) - Real-time conversational agent assisting medical emergencies. Low-latency streaming + context-aware medical RAG.
+* **🏥 Intelli-Med (Hackathon Finalist)**: Post-consultancy AI SaaS converting reports into plain language. Shipped full React Native frontend & FastAPI backend in **under 24 hours**.
+* **🚗 Damage Detector (Hackathon Finalist)**: ML model classifying insurance claim genuineness. Shipped Random Forest model + YOLO damage vision pipeline in **under 36 hours**.
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=audhee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=8B949E&include_all_commits=true&hide=contribs&rank_icon=github" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audhee&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=8B949E&langs_count=5" />
-
-</div>
+### ⚡ Proof of Execution
+* 🥇 **1st Place** at *The Bug Hunt* debugging competition (Python, Java, C).
+* 📜 **Co-Authored Patent** on smart civic engagement frameworks.
+* 💼 **8+ Production APIs** & Twilio/Redis OTP security systems built during internship.
 
 ---
 
-<div align="center">
+### 📊 Performance & Streaks
 
-<sub>Open to internships · Bangalore, India · Responds within 24h</sub>
-
-<br/><br/>
-
-<a href="mailto:audheraj715@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Work%20Together-8B5CF6?style=for-the-badge&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=audhee&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150px" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=audhee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dheeraj's Stats" height="150px" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audhee&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" alt="Top Languages" height="130px" />
+</p>
